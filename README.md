@@ -48,7 +48,8 @@ Again, it is assumed you already know how to install Git Bash, it is quite easy 
 
 
 ```go
-git clone https://github.com/ougabriel/full-stack-blogging-app.git
+git clone https://github.com/VinsmokeSomya/Blog-App-CICD-EKS.git
+cd bogging app
 ```
 
 I am running the `git clone` command in VS Studio
@@ -878,25 +879,4 @@ http://<monitoring-vm-ip>:9115
 
 By setting up these components, you’ll be able to monitor your application’s health and performance effectively.
 
-### **The End**
-
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-
 ---
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
