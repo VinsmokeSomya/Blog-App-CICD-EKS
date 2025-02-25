@@ -1,6 +1,6 @@
-# CICD PROJECT: Production Level Blog APP Deployment using EKS, Nexus, SonarQube, Trivy with Monitoring Tools
+# Production Level Blog APP Deployment using EKS, Nexus, SonarQube, Trivy with Monitoring Tools
 
-![s](https://miro.medium.com/v2/resize:fit:700/1*9CvhrnA6Fg1LTmMjr3n3Kg.gif)
+![image](https://github.com/user-attachments/assets/fa2b4d10-b8f2-4ce4-a032-14ea53123d82)
 
 => **Tools Used:**
 
@@ -46,7 +46,6 @@ c.&gt; **Install GitBash in your local system and clone the repo:**
 
 Again, it is assumed you already know how to install Git Bash, it is quite easy to do this for Windows and Mac. Download the OS and follow the installation prompts. [Click Here](https://github.com/git-guides/install-git) to get started and install Git. Having Git on your local system is a advisable because it makes it easier to push and commits code.
 
-After installing Git Bash, we need to clone the [repo](https://github.com/ougabriel/full-stack-blogging-app.git) we will be using, this [repo](https://github.com/ougabriel/full-stack-blogging-app.git) contains the source code needed for this project. [Click Here to CLONE it.](https://github.com/ougabriel/full-stack-blogging-app.git)
 
 ```go
 git clone https://github.com/ougabriel/full-stack-blogging-app.git
